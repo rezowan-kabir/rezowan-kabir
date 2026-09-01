@@ -105,42 +105,7 @@ projects, and development journey.
 
 **Focus:** HTML • CSS • JavaScript • Responsive Design
 
----
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=200&section=header&text=Hi%20There!%20I'm%20Rezowan%20Kabir&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
-
-<!-- Animated Typing Title -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Aspiring+AI%2FML+Engineer;Passionate+Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-I am a passionate Web Developer and AI/ML enthusiast dedicated to crafting clean code and building user-centric applications. I love exploring emerging technologies, tackling real-world problems, and continuously pushing my limits every single day.
-
-- 🔭 **Currently working on:** A Tourism Website Project
-- 🌱 **Currently learning:** Next.js, TypeScript & Data Science Fundamentals
-- 💬 **Ask me about:** Web Development, React, JavaScript, and Node.js
-- ⚡ **Fun fact:** I don't stop when I'm tired; I stop when the bug is fixed!
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,git,vscode&perline=7" alt="Skills" />
-  </a>
-</p>
-
----
 
 ## Learning Journey
 
