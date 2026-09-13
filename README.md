@@ -1,151 +1,99 @@
-<!-- Profile Views -->
+<!-- Profile Views & Top Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rezowan-kabir&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=rezowan-kabir&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI/ML-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-10b981?style=for-the-badge" />
 </p>
 
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Rezowan%20Kabir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:1e1b4b,100:0f172a&height=200&section=header&text=Rezowan%20Kabir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">
-  Hi, I'm Rezowan Kabir
-</h1>
+<h1 align="center">Hi, I'm Rezowan Kabir 👋</h1>
 
-<h3 align="center">
-  Web Developer | Aspiring ML Engineer
-</h3>
+<h3 align="center">Web Developer | Aspiring ML Engineer</h3>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Learning+Machine+Learning;Turning+Ideas+Into+Projects;Always+Learning%2C+Always+Building" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Learning+Machine+Learning;Turning+Ideas+Into+Projects;Always+Learning%2C+Always+Building" />
+  </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a Computer Science & Technology student passionate about
-building modern web applications and exploring the world of
-Artificial Intelligence and Machine Learning.
+I'm a **Computer Science & Technology student** passionate about building modern web applications and exploring the world of **Artificial Intelligence and Machine Learning**.
 
-I enjoy turning ideas into real-world projects, learning new
-technologies, and continuously improving my problem-solving skills.
+I enjoy turning ideas into real-world projects, learning new technologies, and continuously improving my problem-solving skills.
 
-### Currently Focused On
-
-- Building modern web applications with React
-- Learning TypeScript and writing better, scalable code
-- Developing backend applications with Node.js & Express
-- Working with MongoDB and REST APIs
-- Strengthening my Python programming skills
-- Exploring Machine Learning and Artificial Intelligence
-- Improving problem-solving and programming fundamentals
-- Building projects to learn by doing
+### 📌 Currently Focused On
+- ⚡ Building modern web applications with **React**
+- 📘 Learning **TypeScript** and writing better, scalable code
+- ⚙️ Developing backend applications with **Node.js & Express**
+- 🍃 Working with **MongoDB** and **REST APIs**
+- 🐍 Strengthening my **Python** programming skills
+- 🤖 Exploring **Machine Learning** and **Artificial Intelligence**
+- 🧠 Improving problem-solving and programming fundamentals
+- 🛠️ Building projects to learn by doing
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
-### Frontend
-
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
-### Backend & APIs
-
+### ⚙️ Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database & Services
-
+### 🗄️ Database & Services
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### Tools
-
+### 🚀 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
----
-
-## Featured Projects
-
-### DipLora
-
-A student-focused AI assistant designed to help students
-with learning and productivity.
-
-**Focus:** AI • Web Development • Student Productivity
+</div>
 
 ---
 
-### DevConf 2026
+## 🔥 Featured Projects
 
-A modern conference website designed for a developer-focused
-event.
-
-**Focus:** Responsive UI • Modern Web Design • Frontend Development
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| **🤖 DipLora** | A student-focused AI assistant designed to help students with learning and productivity. | `AI` • `Web Development` • `Productivity` |
+| **🌐 DevConf 2026** | A modern conference website designed for a developer-focused event. | `Responsive UI` • `Modern Design` • `Frontend` |
+| **💼 Portfolio Website** | A personal portfolio website showcasing my skills, projects, and development journey. | `HTML` • `CSS` • `JavaScript` |
 
 ---
 
-### Portfolio Website
+## 🛣️ Learning Journey
 
-A personal portfolio website showcasing my skills,
-projects, and development journey.
-
-**Focus:** HTML • CSS • JavaScript • Responsive Design
-
-
-
-## Learning Journey
-
-text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-React
-    ↓
-TypeScript
-    ↓
-Node.js + Express
-    ↓
-MongoDB + REST APIs
-    ↓
-Python
-    ↓
-NumPy + Pandas
-    ↓
-Machine Learning
-    ↓
-AI / ML Engineering
-
-My Goals
-Become a strong Full-Stack Developer
-Become a Machine Learning Engineer
-Build real-world AI-powered applications
-Improve problem-solving skills
-Contribute to meaningful open-source projects
-Keep learning and improving every day
-
-GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rezowan-kabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezowan-kabir&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rezowan-kabir&theme=tokyonight&hide_border=true" /> </p>
-
-Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/output/github-contribution-grid-snake.svg" /> </p>
-
-Developer Mindset
-Learn → Build → Break → Debug → Improve → Repeat
-
-Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/rezowan-kabir-642759356/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45"/> </a> <a href="mailto:rezyounkabir@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="45"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" /> </p> <p align="center"> Thanks for visiting my profile! </p> 
+```mermaid
+flowchart LR
+    A[HTML / CSS] --> B[JavaScript]
+    B --> C[React]
+    C --> D[TypeScript]
+    D --> E[Node.js + Express]
+    E --> F[MongoDB + REST APIs]
+    F --> G[Python]
+    G --> H[NumPy + Pandas]
+    H --> I[Machine Learning]
+    I --> J[AI / ML Engineering]
