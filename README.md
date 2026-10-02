@@ -102,7 +102,10 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 ---
 
-
+<p align="center">
+  <!-- 3d graph-->
+  <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+</p>
 
 <div align="center">
   <!-- GitHub Stats -->
