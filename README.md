@@ -101,11 +101,10 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 - Keep learning and improving every day
 
 ---
-<!-- 3D Contribution Graph -->
+<!-- 3D Contribution Graph (GitBlock Theme) -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
 </p>
-<br />
 
 <div align="center">
   <!-- GitHub Stats -->
