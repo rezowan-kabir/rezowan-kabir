@@ -43,7 +43,7 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -121,10 +121,9 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 <br />
 
-###  Contribution Snake (Animated)
+###  Contribution Snake 
 <p align="center">
-  <!-- Working Animated Snake Link -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
