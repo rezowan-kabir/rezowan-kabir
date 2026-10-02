@@ -102,7 +102,7 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 ---
 
-##  GitHub Analytics
+
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -121,7 +121,7 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 <br />
 
-###  Contribution Snake 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
