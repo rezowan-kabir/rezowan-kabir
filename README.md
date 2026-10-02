@@ -102,11 +102,6 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 ---
 
-<p align="center">
-  <!-- 3D Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
-</p>
-
 <br />
 
 <div align="center">
@@ -126,7 +121,12 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 <br />
 
-<!-- Contribution Snake (Default Dark) -->
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/main/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+<!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezowan-kabir/rezowan-kabir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
